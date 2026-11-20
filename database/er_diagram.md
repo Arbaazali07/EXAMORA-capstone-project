@@ -5,9 +5,9 @@
 
 ### 1. Conceptual ER Diagram (Mermaid)
 
-```mermaid
 
-<img width="1728" height="1084" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/0c153a24-ac7b-4762-a931-bce874633121" />
+
+<img width="1536" height="1024" alt="EXAMORA ER Diagram Schema Overview" src="https://github.com/user-attachments/assets/f75a21bf-9629-4c99-997e-11de401bbf83" />
 
 erDiagram
     USERS ||--o| STUDENTS : "1:1 specializes as"
@@ -208,7 +208,6 @@ erDiagram
         json details
         timestamp created_at
     }
-```
 
 ---
 
